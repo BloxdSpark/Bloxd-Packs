@@ -1,3 +1,2 @@
 # Bloxd-Packs
-Here are some bloxd texture packs!
-<a href="FlamingX Pack.zip" download>link_text</a>
+<h1>How to make bloxd.io packs and examples of them</h1>
